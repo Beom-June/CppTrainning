@@ -27,5 +27,11 @@
     <ClCompile Include="example4.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="lab01.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lab02.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
