@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cppExample", "cppExample\cp
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "변수, 자료형, auto, 입력 방법", "변수, 자료형, auto, 입력 방법\변수, 자료형, auto, 입력 방법.vcxproj", "{784F80DD-82F9-4274-A119-857CDE14D55C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "제어구조(조건문, 반복문)", "제어구조(조건문, 반복문)\제어구조(조건문, 반복문).vcxproj", "{E8DE7B81-13EB-45E4-8CBC-DCA34FF62C4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{784F80DD-82F9-4274-A119-857CDE14D55C}.Release|x64.Build.0 = Release|x64
 		{784F80DD-82F9-4274-A119-857CDE14D55C}.Release|x86.ActiveCfg = Release|Win32
 		{784F80DD-82F9-4274-A119-857CDE14D55C}.Release|x86.Build.0 = Release|Win32
+		{E8DE7B81-13EB-45E4-8CBC-DCA34FF62C4D}.Debug|x64.ActiveCfg = Debug|x64
+		{E8DE7B81-13EB-45E4-8CBC-DCA34FF62C4D}.Debug|x64.Build.0 = Debug|x64
+		{E8DE7B81-13EB-45E4-8CBC-DCA34FF62C4D}.Debug|x86.ActiveCfg = Debug|Win32
+		{E8DE7B81-13EB-45E4-8CBC-DCA34FF62C4D}.Debug|x86.Build.0 = Debug|Win32
+		{E8DE7B81-13EB-45E4-8CBC-DCA34FF62C4D}.Release|x64.ActiveCfg = Release|x64
+		{E8DE7B81-13EB-45E4-8CBC-DCA34FF62C4D}.Release|x64.Build.0 = Release|x64
+		{E8DE7B81-13EB-45E4-8CBC-DCA34FF62C4D}.Release|x86.ActiveCfg = Release|Win32
+		{E8DE7B81-13EB-45E4-8CBC-DCA34FF62C4D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
