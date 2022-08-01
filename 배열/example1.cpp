@@ -7,7 +7,7 @@
 
 #include <iostream>
 using namespace std;
-
+/*
 int main()
 {
 	// 문자형 배열
@@ -49,3 +49,4 @@ int main()
 	// 모든 변수, 배열, 객체 등은 초기화 하지 않으면 쓰레기 값으로 저장됨
 	return 0;
 }
+*/
